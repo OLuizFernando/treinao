@@ -1,0 +1,16 @@
+{
+  "name": "treinao",
+  "version": "1.0.0",
+  "description": "O **Treinão** é uma aplicação web desenvolvida para ajudar os usuários a montarem e organizarem seus treinos de musculação de forma fácil e intuitiva. Pensada para quem quer otimizar seu tempo na academia, a plataforma permite criar treinos personalizados com base nas preferências e objetivos de cada usuário.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
